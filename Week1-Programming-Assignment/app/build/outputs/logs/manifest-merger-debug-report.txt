@@ -1,0 +1,78 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:design:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/f33c262aaeccfa6220455b4a438ad16a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/a4ebc6f7ab3d0cbf89e9a8b14aa9d2bc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/b31018b27f27f3b12c28d2aee9992239/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:design:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/f33c262aaeccfa6220455b4a438ad16a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/f33c262aaeccfa6220455b4a438ad16a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/a4ebc6f7ab3d0cbf89e9a8b14aa9d2bc/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/a4ebc6f7ab3d0cbf89e9a8b14aa9d2bc/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/b31018b27f27f3b12c28d2aee9992239/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/b31018b27f27f3b12c28d2aee9992239/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:10:9-40
+activity#mooc.vandy.java4android.shapes.ui.MainActivity
+ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:11:19-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/f33c262aaeccfa6220455b4a438ad16a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/f33c262aaeccfa6220455b4a438ad16a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/a4ebc6f7ab3d0cbf89e9a8b14aa9d2bc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/a4ebc6f7ab3d0cbf89e9a8b14aa9d2bc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/b31018b27f27f3b12c28d2aee9992239/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/alanhelal/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/b31018b27f27f3b12c28d2aee9992239/AndroidManifest.xml:20:5-43
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week1-Programming-Assignment/app/src/main/AndroidManifest.xml
