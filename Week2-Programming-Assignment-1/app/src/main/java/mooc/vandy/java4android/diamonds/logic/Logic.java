@@ -46,7 +46,76 @@ public class Logic
      */
     public void process(int size) {
 
-        // TODO -- add your code here
+        mOut.print("+");
+        for (int i = 0; i < (2*size); i++) {
+            mOut.print("-");
+        }
+        mOut.println("+");
+
+
+        //Top part
+        for (int i = 0; i < size-1 ; i++) {
+            mOut.print("|");
+
+            for (int q=0; q < ((size-1) - i); q++) {
+                mOut.print(" ");
+            }
+            mOut.print("/");
+            for (int m=i; m > 0 ; m--) {
+                if (i%2==1) {
+                    mOut.print("--");
+                }
+                else
+                    mOut.print("==");
+            }
+
+            mOut.print("\\");
+            for (int j = 0; j < ((size-1) - i); j++) {
+                mOut.print(" ");
+            }
+            mOut.println("|");
+        }
+
+        //Half
+        mOut.print("|<");
+        for (int j = 0; j <(size-1)*2 ; j++) {
+            if (size%2 == 0) {
+                mOut.print("-");
+            }
+            else
+                mOut.print("=");
+        }
+        mOut.println(">|");
+
+        //Below part
+
+        for (int i = size-1; i > 0 ; i--) {
+            mOut.print("|");
+            for (int j = i; j < (size) ; j++) {
+                mOut.print(" ");
+            }
+
+            mOut.print("\\");
+            for (int m=i-1; m > 0 ; m--) {
+                if (i%2 == 0) {
+                    mOut.print("--");
+                }
+                else
+                    mOut.print("==");
+            }
+
+            mOut.print("/");
+            for (int j = i; j <(size) ; j++) {
+                mOut.print(" ");
+            }
+            mOut.println("|");
+        }
+
+        mOut.print("+");
+        for (int i = 0; i < (2*size); i++) {
+            mOut.print("-");
+        }
+        mOut.print("+");
 
     }
 
