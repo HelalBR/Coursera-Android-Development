@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week2-Programming-Assignment-2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/alanhelal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/a4ebc6f7ab3d0cbf89e9a8b14aa9d2bc/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "48",
+                        "endOffsets": "335"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
