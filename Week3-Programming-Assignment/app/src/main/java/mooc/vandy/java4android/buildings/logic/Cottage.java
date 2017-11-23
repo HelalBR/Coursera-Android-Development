@@ -19,7 +19,7 @@ public class Cottage
         this.mSecondFloor = secondFloor;
     }
 
-    public hasSecondFloor()
+    public boolean hasSecondFloor()
     {
         return this.mSecondFloor;
     }
