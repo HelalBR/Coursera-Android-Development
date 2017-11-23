@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Nov 23 01:00:40 BRST 2017
+1.base=/Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Course 1 - Java For Android/Week 4 - PA - Calculator App/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Course 1 - Java For Android/Week 4 - PA - Calculator App/app/build/intermediates/transforms/dexMerger/debug/1
+1.path=classes.dex

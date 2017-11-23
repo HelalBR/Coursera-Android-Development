@@ -1,0 +1,12 @@
+package mooc.vandy.java4android.calculator.logic;
+
+/**
+ * Perform the Add operation.
+ */
+public class Add {
+
+    public static int Addition(int num1, int num2)
+    {
+        return (num1+num2);
+    }
+}
