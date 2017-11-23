@@ -97,6 +97,10 @@ public class Logic
                 }
             }
         }
+
+        for (int i = 0; i < 365 ; i++) {
+            System.out.println(random.nextInt(365));
+        }
         return counter * 100.0 / count;
     }
 }

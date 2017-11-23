@@ -1,0 +1,4 @@
+#Tue Nov 21 12:19:08 BRST 2017
+base.0=/Users/alanhelal/Documents/GitHub/Coursera-Android-Development/Week 3 - PA - Gate/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
